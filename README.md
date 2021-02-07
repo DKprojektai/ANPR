@@ -19,3 +19,5 @@ https://www.youtube.com/watch?v=EhzaVbBtS40  – First part
 https://www.youtube.com/watch?v=drjoXaPSkQM   - Second part 
 
 Manuals you will find in "C:\ANPR\" directory
+
+ANPR recognizes cars (vehicles): make, model, color, type.
