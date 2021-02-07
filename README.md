@@ -12,7 +12,7 @@ Send data with POST or GET commands to your web server;
 Has it‘s own web client server;
 Much more... 
 
-If you would like to test it, you can download new version from our website - http://www.videoanalitika.lt/ANPR/setup.exe  
+If you would like to test it, you can download new version from our website - https://www.videoanalitika.lt/ANPR/setup.exe  
 
 Please use quick install guide:
 https://www.youtube.com/watch?v=EhzaVbBtS40  – First part
